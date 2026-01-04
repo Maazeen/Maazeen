@@ -1,24 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohammed Maazeen</h1>
 
-<p align="center">
-  <a href="https://github.com/Mohammed-Maazeen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+ML+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Computer+Vision+%7C+Deep+Learning;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
+<h3 align="center">
 AI Engineer • ML Engineer • Generative AI • LLMs • Computer Vision
-</p>
+</h3>
 
 <p align="center">
   <a href="mailto:mohammedmaazeen20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-mohammedmaazeen20@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/mohammed-maazeen-3322a521b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Maazeen-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Mohammed-Maazeen">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Maazeen">
+    <img src="https://img.shields.io/badge/GitHub-Maazeen-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -26,101 +20,166 @@ AI Engineer • ML Engineer • Generative AI • LLMs • Computer Vision
 
 ## 👤 About Me
 
-I’m an **AI / ML Engineer with 2+ years of hands-on experience** building, refining, and deploying intelligent systems for real-world applications.
+I am an **AI / ML Engineer with 2+ years of hands-on experience** in developing, refining, and deploying intelligent AI/ML systems for real-world applications.
 
-My work spans the **entire machine learning lifecycle** — from data preparation and feature engineering to model optimization, evaluation, and deployment.
+My experience spans the **full machine learning lifecycle** — data preparation, feature engineering, model experimentation, optimization, evaluation, and deployment.
 
-I specialize in **Generative AI, LLMs, Retrieval-Augmented Generation (RAG), and Computer Vision**, and I enjoy building **production-ready, scalable AI solutions** that balance performance, reliability, and interpretability.
+I specialize in **Generative AI, LLMs, Retrieval-Augmented Generation (RAG), and Computer Vision**, with experience across **research, industrial AI pipelines, and production-style deployments**.
 
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Core Skills
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-0A66C2?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Advanced-6A1B9A?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Advanced-1565C0?style=for-the-badge)
+My technical strengths include **Transformers, CNNs, Vision Transformers, LLM fine-tuning, NLP, Computer Vision, classical ML**, and structured experimentation.
 
 ---
 
-### 🤖 Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+## 🛠️ Tech & Tools
+
+### 🔹 Programming & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
 ---
 
-### 🧠 Generative AI & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-LLM%20Orchestration-black?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-green?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector%20Databases-Milvus-blue?style=for-the-badge)
+### 🔹 AI, DL & CV
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-00897B?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1565C0?style=for-the-badge)
+![Vision Transformers](https://img.shields.io/badge/Vision%20Transformers-673AB7?style=for-the-badge)
+
+---
+
+### 🔹 Generative AI & Agents
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-512DA8?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-3F51B5?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-Milvus-1E88E5?style=for-the-badge)
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Inventeron Technologies — *Machine Learning Intern*
-📅 **Aug 2022 – Oct 2022**
+### 🏭 **Schneider Electric — Artificial Intelligence Intern**
+📅 *Feb 2025 – Aug 2025*
 
-- Built and tuned ML & DL models through extensive experimentation  
-- Analyzed datasets to guide feature selection and model direction  
-- Collaborated with data scientists to iteratively improve accuracy  
-- Gained strong exposure to real-world ML workflows  
-
----
-
-### 🏭 Schneider Electric — *Artificial Intelligence Intern*
-📅 **Feb 2025 – Aug 2025**
-
-- Built a **hybrid AI + RAG pipeline** for industrial automation migration  
-- Automated IEC 61131-3 → IEC 61499 logic transformation using LLMs  
-- Used Docling, Milvus, and embeddings for intelligent inference  
-- Reduced manual engineering effort and improved system scalability  
+- Designed a hybrid AI pipeline using Python, XML parsing, LLMs, and RAG  
+- Automated IEC 61131-3 → IEC 61499 system migration using LLM-based logic mapping  
+- Built RAG inference systems using Docling, Milvus, and sentence embeddings  
+- Reduced manual engineering effort and improved automation scalability  
 
 ---
 
-## 🚀 Featured Projects
+### 🎓 **Manipal Institute of Technology — Research Scholar**
+📅 *Aug 2024 – Jan 2025*
 
-### 🏥 Medical GPT — *RAG-based Medical Q&A*
-- Built an LLM-powered medical QA system over large PDFs  
-- Implemented semantic chunking, embeddings & grounded prompting  
-- Reduced hallucinations and improved answer reliability  
-
----
-
-### 📄 Semantic Document Comparison API
-- Built an API to detect semantic differences between documents  
-- Used HuggingFace sentence transformers  
-- Deployed using BentoML with production-style inference  
+- Developed multi-model deep learning pipelines using ConvNeXt, ViT, DINOv2, and EfficientNet  
+- Applied data augmentation, class balancing, and test-time augmentation  
+- Integrated Grad-CAM for explainability  
+- Achieved **95% classification accuracy** in medical imaging tasks  
 
 ---
 
-### 🤖 Automated Job Finder & Email Alerts
-- Built end-to-end job aggregation using **n8n automation**  
-- Filtered, summarized, and emailed curated job listings  
+### 🧠 **Novaitech — Data Science Engineer**
+📅 *Jul 2023 – Dec 2023*
+
+- Built an AI-powered chatbot using **LLaMA 2 (7B)**  
+- Applied prompt engineering and HuggingFace fine-tuning  
+- Implemented conversation memory using LangChain  
+- Developed Streamlit-based demo applications  
 
 ---
 
-### 🗣️ Lip-to-Speech Synthesis
+### 🏢 **Inventeron Technologies — Machine Learning Intern**
+📅 *Aug 2022 – Oct 2022*
+
+- Built ML & DL models through hands-on experimentation  
+- Performed hyperparameter tuning and feature analysis  
+- Collaborated with data scientists to improve model accuracy  
+
+---
+
+## 🚀 Projects
+
+### 🏥 **Medical GPT – Medical Q&A System**
+*(RAG-based | LLM Engineering)*  
+- Built a medical question-answering system using RAG over large medical PDFs  
+- Implemented semantic chunking, embeddings, and grounded prompting  
+- Reduced hallucinations and improved response reliability  
+
+---
+
+### 📄 **Semantic Document Comparison API**
+*(Hugging Face | BentoML)*  
+- Built an API to detect semantic changes between document versions  
+- Used sentence-transformer embeddings for similarity comparison  
+- Deployed using BentoML with production-grade inference design  
+
+---
+
+### 🤖 **Automated Job Finder & Email Alert System**
+*(AI Automation | n8n)*  
+- Automated job collection via RSS feeds  
+- Processed unstructured JDs using rule-based logic and AI-style summarization  
+- Generated structured email alerts with curated links  
+
+---
+
+### 🏥 **Healthcare Diabetes Prediction**
+*(Machine Learning | Feature Engineering)*  
+- Built ML models to predict diabetes risk using real-world datasets  
+- Applied scaling, outlier removal, and correlation analysis  
+- Evaluated Logistic Regression, Random Forest, and SVM  
+
+---
+
+### 🧬 **Skin Cancer Classification**
+*(Deep Learning | Transfer Learning)*  
+- Built CNN, EfficientNet, and Vision Transformer models  
+- Achieved high accuracy for early skin cancer detection  
+
+---
+
+### 🗣️ **Lip-to-Speech Synthesis**
+*(Deep Learning | NLP | Computer Vision)*  
 - Converted silent lip movements into synthesized speech  
 - Used CNN + RNN architectures  
-- Improved intelligibility via tuning and validation  
+- Improved intelligibility through tuning and validation  
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Maazeen&show_icons=true&theme=tokyonight" />
-</p>
+### 🍎 **Fruit Quality Detection**
+*(Computer Vision | Classification)*  
+- Built a real-time fruit quality classification system  
+- Ensured robustness across lighting and environment variations  
 
 ---
 
-## 👁️ Profile Views
+### 🏠 **Home Loan Analysis & Prediction**
+*(EDA + Machine Learning)*  
+- Built a complete ML pipeline for loan approval prediction  
+- Compared Decision Trees, Random Forest, and Gradient Boosting  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Maazeen&style=for-the-badge&color=blue" />
-</p>
+---
+
+## 📜 Certifications
+
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-AI%20Python%20for%20Beginners-red?style=for-the-badge)
+![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering-blue?style=for-the-badge)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative%20AI%20for%20Everyone-red?style=for-the-badge)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Supervised%20ML-orange?style=for-the-badge)
+![IBM](https://img.shields.io/badge/IBM-Data%20Science%20Specialization-blue?style=for-the-badge)
+
+---
+
+## 📫 Contact
+
+📧 **Email:** mohammedmaazeen20@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/mohammed-maazeen-3322a521b/  
+🐙 **GitHub:** https://github.com/Maazeen
