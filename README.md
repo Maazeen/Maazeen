@@ -87,7 +87,7 @@ My technical strengths include **Transformers, CNNs, Vision Transformers, LLM fi
 ---
 
 ### 🧠 **Novaitech — Data Science Engineer**
-📅 *Jul 2023 – Dec 2023*
+📅 *Jan 2023 – Dec 2023*
 
 - Built an AI-powered chatbot using **LLaMA 2 (7B)**  
 - Applied prompt engineering and HuggingFace fine-tuning  
